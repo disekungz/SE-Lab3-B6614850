@@ -325,7 +325,6 @@ function CustomerEdit() {
 
               >
                 <DatePicker style={{ width: "100%" }} />
-
               </Form.Item>
 
             </Col>
